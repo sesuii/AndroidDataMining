@@ -1,0 +1,6 @@
+/venv
+/F-Droid/*.json
+.idea
+*.json
+*.txt
+/sync
