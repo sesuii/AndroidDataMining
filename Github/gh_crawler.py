@@ -3,7 +3,7 @@ import sys
 import time
 
 # Insert GitHub API token here, in place of *TOKEN*.
-headers = {"Authorization": "token $github_token$>"}  # updated token
+headers = {"Authorization": "Bearer $github_token$>"}  # updated token
 # Constants & language argument.
 NUM_REPOS = 100_000
 MIN_STARS = 10
